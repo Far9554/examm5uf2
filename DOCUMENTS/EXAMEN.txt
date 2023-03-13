@@ -1,0 +1,13 @@
+Ex1
+cd ./dam2m5uf2/examenm5uf2
+git init
+git add .
+git commit -m README.MD
+git commit -m AUTHOR.TXT
+git push https://github.com/Far9554/examenm5uf2.git master
+
+Ex2
+nano LICIENCIES.txt
+git add .
+git commit -m LICIENCIES.txt
+git push https://github.com/Far9554/examenm5uf2.git master
