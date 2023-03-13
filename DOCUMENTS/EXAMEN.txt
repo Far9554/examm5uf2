@@ -14,3 +14,7 @@ git push https://github.com/Far9554/examenm5uf2.git master
 
 Ex3
 cp . C:\Users\mario\Desktop\Nueva carpeta\WindowsApp
+
+Ex4
+
+Ex5

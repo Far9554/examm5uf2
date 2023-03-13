@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FORMs\FrmMenjar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMs\FrmMenjar.Designer.cs">
+      <DependentUpon>FrmMenjar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMs\FrmViatjat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMs\FrmViatjat.Designer.cs">
+      <DependentUpon>FrmViatjat.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
